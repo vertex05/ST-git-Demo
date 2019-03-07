@@ -1,0 +1,11 @@
+#header{
+color:Blue;
+}
+#body{
+background:gray;
+
+}
+#menu ul,li,a{
+display:inline;
+color:yellow;
+}
